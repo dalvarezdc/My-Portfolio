@@ -2,7 +2,7 @@ import urllib
 from BeautifulSoup import *
 
 #url = raw_input('Enter - ')
-url = "http://python-data.dr-chuck.net/known_by_Mabruka.html"
+
 html = urllib.urlopen(url).read()
 soup = BeautifulSoup(html)
 
