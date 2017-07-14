@@ -28,4 +28,4 @@ print 'Retrieved',len(data),'characters'
 print 'Count', i 
 print 'Sum:', num2
 
-#http://python-data.dr-chuck.net/comments_255894.xml
+
